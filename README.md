@@ -4,7 +4,7 @@ Most of the practice exercises came from the book "**Deep Learning for Natural L
 by *Karthiek Reddy Bokka, Shubhangi Hora, Tanuj Jain and Monica Wambugu.*
 
 The PIP LIBRARY VERSION for my python code practice currently running on:
-
+```
 Package            Version
 ------------------ ----------
 attrs              19.3.0
@@ -82,3 +82,4 @@ wcwidth            0.1.8
 webencodings       0.5.1
 widgetsnbextension 3.5.1
 zipp               1.0.0
+```
