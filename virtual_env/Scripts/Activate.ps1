@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="E:\CysecLab\Chapter2\chapter2_env"
+$env:VIRTUAL_ENV="E:\CysecLab\NLP_PracticesForDeepLearning\virtual_env"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name
@@ -35,7 +35,7 @@ if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     function global:_OLD_VIRTUAL_PROMPT {""}
     copy-item function:prompt function:_OLD_VIRTUAL_PROMPT
     function global:prompt {
-        Write-Host -NoNewline -ForegroundColor Green '(chapter2_env) '
+        Write-Host -NoNewline -ForegroundColor Green '(virtual_env) '
         _OLD_VIRTUAL_PROMPT
     }
 }

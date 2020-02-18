@@ -1,4 +1,4 @@
-#!e:\cyseclab\chapter2\chapter2_env\scripts\python.exe
+#!e:\cyseclab\nlp_practicesfordeeplearning\virtual_env\scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'tabulate==0.8.6','console_scripts','tabulate'
 __requires__ = 'tabulate==0.8.6'
 import re

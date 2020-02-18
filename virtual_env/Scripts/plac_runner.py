@@ -1,4 +1,4 @@
-#!e:\cyseclab\chapter2\chapter2_env\scripts\python.exe
+#!e:\cyseclab\nlp_practicesfordeeplearning\virtual_env\scripts\python.exe
 from __future__ import with_statement
 import os
 import sys

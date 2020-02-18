@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="E:\CysecLab\Chapter2\chapter2_env"
+VIRTUAL_ENV="E:\CysecLab\NLP_PracticesForDeepLearning\virtual_env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
@@ -54,8 +54,8 @@ fi
 
 if [ -z "${VIRTUAL_ENV_DISABLE_PROMPT:-}" ] ; then
     _OLD_VIRTUAL_PS1="${PS1:-}"
-    if [ "x(chapter2_env) " != x ] ; then
-	PS1="(chapter2_env) ${PS1:-}"
+    if [ "x(virtual_env) " != x ] ; then
+	PS1="(virtual_env) ${PS1:-}"
     else
     if [ "`basename \"$VIRTUAL_ENV\"`" = "__" ] ; then
         # special case for Aspen magic directories
