@@ -3,15 +3,83 @@ The purpose of this project is simply sharing my practice on NLP techniques in D
 Most of the practice exercises came from the book "**Deep Learning for Natural Language Processing**: Solve your NLP problems with Deep Neural Networks"
 by *Karthiek Reddy Bokka, Shubhangi Hora, Tanuj Jain and Monica Wambugu.*
 
-The PIP Packages Version for my python code practice is described in Requirements.txt
-
-CONTENTS:
-1. Chapter 1: Introduction to NLP
-
-2. Chapter 2: Applications of NLP
-(POS Tagging, Chunking, Chinking, Rule-based POS Taggers of NLTK, spaCy, NER, etc.) 
-
-3. Chapter 3: Introduction to Neural Network 
-(Architecture, Activation funtions, Loss, Gradient Decent, Backpropagation, etc.)
-
-4. Chapter 4: Foundations of Convolutional Neural Network 
+The PIP LIBRARY VERSION for my python code practice currently running on:
+```
+Package            Version
+------------------ ----------
+attrs              19.3.0
+backcall           0.1.0
+bleach             3.1.0
+blis               0.4.1
+catalogue          1.0.0
+certifi            2019.11.28
+chardet            3.0.4
+colorama           0.4.3
+cycler             0.10.0
+cymem              2.0.3
+decorator          4.4.1
+defusedxml         0.6.0
+en-core-web-sm     2.2.5
+entrypoints        0.3
+idna               2.8
+importlib-metadata 1.4.0
+ipykernel          5.1.3
+ipython            7.11.1
+ipython-genutils   0.2.0
+ipywidgets         7.5.1
+jedi               0.15.2
+Jinja2             2.10.3
+joblib             0.14.1
+jsonschema         3.2.0
+jupyter            1.0.0
+jupyter-client     5.3.4
+jupyter-console    6.0.0
+jupyter-core       4.6.1
+kiwisolver         1.1.0
+MarkupSafe         1.1.1
+matplotlib         3.1.2
+mistune            0.8.4
+more-itertools     8.1.0
+murmurhash         1.0.2
+nbconvert          5.6.1
+nbformat           5.0.3
+nltk               3.4.5
+notebook           6.0.2
+numpy              1.18.1
+pandocfilters      1.4.2
+parso              0.5.2
+pickleshare        0.7.5
+pip                20.0.1
+plac               1.1.3
+preshed            3.0.2
+prometheus-client  0.7.1
+prompt-toolkit     2.0.10
+Pygments           2.5.2
+pyparsing          2.4.6
+pyrsistent         0.15.7
+python-dateutil    2.8.1
+pywin32            227
+pywinpty           0.5.7
+pyzmq              18.1.1
+qtconsole          4.6.0
+requests           2.22.0
+scikit-learn       0.22.1
+scipy              1.4.1
+Send2Trash         1.5.0
+setuptools         40.8.0
+six                1.13.0
+spacy              2.2.3
+srsly              1.0.1
+terminado          0.8.3
+testpath           0.4.4
+thinc              7.3.1
+tornado            6.0.3
+tqdm               4.41.1
+traitlets          4.3.3
+urllib3            1.25.7
+wasabi             0.6.0
+wcwidth            0.1.8
+webencodings       0.5.1
+widgetsnbextension 3.5.1
+zipp               1.0.0
+```
