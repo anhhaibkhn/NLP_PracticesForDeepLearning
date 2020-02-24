@@ -14,4 +14,15 @@ CONTENTS:
 3. Chapter 3: Introduction to Neural Network 
 (Architecture, Activation funtions, Loss, Gradient Decent, Backpropagation, etc.)
 
-4. Chapter 4: Foundations of Convolutional Neural Network 
+(Updating)
+4. Chapter 4: Foundations of Convolutional Neural Network (CNN)
+
+5. Chapter 5: Recurrent Neural Network (RNN)
+
+6. Chapter 6: Gated Recurrent Units (GRUs)
+
+7. Chapter 7: Long Short-term Memory (LSTM)
+
+8. Chapter 8: State-of-the-Art Natural Language Processing
+
+9. Chapter 9: Practical NLP Project Workflow in an Organization. 
