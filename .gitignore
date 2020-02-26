@@ -1,2 +1,2 @@
-virtual_env/*
-NN.hd5
+/virtual_env/*
+*.hd5
