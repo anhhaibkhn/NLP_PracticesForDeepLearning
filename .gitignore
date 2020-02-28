@@ -1,3 +1,5 @@
 /virtual_env
 /virtual_env/*
 *.hd5
+*.txt
+*.png
