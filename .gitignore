@@ -1,7 +1,10 @@
 /virtual_env
 /virtual_env/*
+/papers/*
 *.hd5
 *.txt
 *.png
 *.zip
 *.ipynb_checkpoints
+OnThuatToan.ipynb
+Chapter5Activity6Failed.ipynb
