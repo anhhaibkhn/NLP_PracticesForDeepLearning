@@ -5,6 +5,7 @@
 *.txt
 *.png
 *.zip
+*.h5
 *.ipynb_checkpoints
 OnThuatToan.ipynb
 Chapter5Activity6Failed.ipynb
