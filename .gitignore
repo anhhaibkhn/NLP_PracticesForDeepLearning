@@ -1,7 +1,6 @@
 /virtual_env
 /virtual_env/*
 *.hd5
-*.txt
 *.png
 *.zip
 *.h5
@@ -11,3 +10,4 @@ Chapter5Activity6Failed.ipynb
 text8
 Chapter1.ipynb
 *.hdf5
+UNknown.txt 
