@@ -1,6 +1,5 @@
 /virtual_env
 /virtual_env/*
-/papers/*
 *.hd5
 *.txt
 *.png
